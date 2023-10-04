@@ -1,4 +1,4 @@
-# my_activities
+# Doctor apps
 
 A new Flutter project.
 
