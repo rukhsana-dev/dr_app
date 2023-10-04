@@ -15,4 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+![dr_git_logo](https://raw.githubusercontent.com/rukhsana-dev/dr_app/master/Untitled%20design.jpg)
 
